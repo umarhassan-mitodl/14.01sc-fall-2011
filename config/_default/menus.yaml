@@ -1,0 +1,225 @@
+leftnav:
+- identifier: 8abb293b-49d8-047a-3f36-74bfa02e78f7
+  name: Syllabus
+  pageRef: /pages/syllabus/syllabus
+  weight: 10
+- identifier: f0b3ed7c-dca2-a26b-75e3-53d084b146b2
+  name: Meet the TAs
+  pageRef: /pages/syllabus/meet-the-tas
+  parent: 8abb293b-49d8-047a-3f36-74bfa02e78f7
+  weight: 20
+- identifier: 10bf5cbc-f553-18ee-b099-54ff31dafc1c
+  name: 'Unit 1: Supply and Demand'
+  pageRef: /pages/unit-1-supply-and-demand/
+  weight: 30
+- identifier: b9026c77-1341-a253-b9d1-649dae571519
+  name: Introduction to Microeconomics
+  pageRef: /pages/unit-1-supply-and-demand/introduction-to-microeconomics
+  parent: 10bf5cbc-f553-18ee-b099-54ff31dafc1c
+  weight: 40
+- identifier: bf5626a7-d48d-d3b2-58c6-78a13912ef84
+  name: Applying Supply and Demand
+  pageRef: /pages/unit-1-supply-and-demand/applying-supply-and-demand
+  parent: 10bf5cbc-f553-18ee-b099-54ff31dafc1c
+  weight: 50
+- identifier: e9dacfa6-ab6f-a244-a257-57f4d8b4b4f1
+  name: Elasticity
+  pageRef: /pages/unit-1-supply-and-demand/elasticity
+  parent: 10bf5cbc-f553-18ee-b099-54ff31dafc1c
+  weight: 60
+- identifier: 4cecca62-a7b9-486b-1e1d-45d54b8e504b
+  name: Problem Set 1
+  pageRef: /pages/unit-1-supply-and-demand/problem-set-1
+  parent: 10bf5cbc-f553-18ee-b099-54ff31dafc1c
+  weight: 70
+- identifier: 6d0eabb4-bf84-c44f-6ed5-096dcf2cf3a4
+  name: 'Unit 2: Consumer Theory'
+  pageRef: /pages/unit-2-consumer-theory/
+  weight: 80
+- identifier: eba60351-486e-4457-3f84-ae3b47789fde
+  name: Preferences and Utility
+  pageRef: /pages/unit-2-consumer-theory/preferences-and-utility
+  parent: 6d0eabb4-bf84-c44f-6ed5-096dcf2cf3a4
+  weight: 90
+- identifier: 0c0a7957-a70d-ea1c-20bc-11996dd1090c
+  name: Budget Constraints
+  pageRef: /pages/unit-2-consumer-theory/budget-constraints
+  parent: 6d0eabb4-bf84-c44f-6ed5-096dcf2cf3a4
+  weight: 100
+- identifier: de42bac0-72e1-09a5-022b-9104454d56da
+  name: Problem Set 2
+  pageRef: /pages/unit-2-consumer-theory/problem-set-2
+  parent: 6d0eabb4-bf84-c44f-6ed5-096dcf2cf3a4
+  weight: 110
+- identifier: e0983a2e-16f7-37a8-ad57-4f6bb67502e5
+  name: Deriving Demand Curves
+  pageRef: /pages/unit-2-consumer-theory/deriving-demand-curves
+  parent: 6d0eabb4-bf84-c44f-6ed5-096dcf2cf3a4
+  weight: 120
+- identifier: 52d96c2f-56aa-990b-e3ea-69526d59464b
+  name: 'Applying Consumer Theory: Labor'
+  pageRef: /pages/unit-2-consumer-theory/applying-consumer-theory-labor
+  parent: 6d0eabb4-bf84-c44f-6ed5-096dcf2cf3a4
+  weight: 130
+- identifier: 5be371bb-9c4f-36b1-f197-043fc0d6cab4
+  name: Problem Set 3
+  pageRef: /pages/unit-2-consumer-theory/problem-set-3
+  parent: 6d0eabb4-bf84-c44f-6ed5-096dcf2cf3a4
+  weight: 140
+- identifier: d46e8fdc-6892-9264-28d5-f67b02821e82
+  name: Midterm Exam 1
+  pageRef: /pages/midterm-exam-1
+  weight: 150
+- identifier: 3abe52b2-06f4-e040-5bcb-7ce684de6ae6
+  name: 'Unit 3: Producer Theory'
+  pageRef: /pages/unit-3-producer-theory/
+  weight: 160
+- identifier: c282655d-a496-1349-b75e-5b0e7692c61b
+  name: Introduction to Producer Theory
+  pageRef: /pages/unit-3-producer-theory/introduction-to-producer-theory
+  parent: 3abe52b2-06f4-e040-5bcb-7ce684de6ae6
+  weight: 170
+- identifier: 35e2a9c4-1897-5d5d-2bfc-b2dfa5fa18ac
+  name: Productivity and Costs
+  pageRef: /pages/unit-3-producer-theory/productivity-and-costs
+  parent: 3abe52b2-06f4-e040-5bcb-7ce684de6ae6
+  weight: 180
+- identifier: c51a6858-5b2e-cbf5-8359-4f4bc69947e1
+  name: Competition I
+  pageRef: /pages/unit-3-producer-theory/competition-i
+  parent: 3abe52b2-06f4-e040-5bcb-7ce684de6ae6
+  weight: 190
+- identifier: 7202f9bf-94b4-33fc-7f69-0ef73b511c93
+  name: Problem Set 4
+  pageRef: /pages/unit-3-producer-theory/problem-set-4
+  parent: 3abe52b2-06f4-e040-5bcb-7ce684de6ae6
+  weight: 200
+- identifier: 032b458b-15b1-6f20-7453-36ff876c9f66
+  name: Competition II
+  pageRef: /pages/unit-3-producer-theory/competition-ii
+  parent: 3abe52b2-06f4-e040-5bcb-7ce684de6ae6
+  weight: 210
+- identifier: 74a70dbf-2813-4c7f-25ca-e0a217b6ec6f
+  name: 'Unit 4: Welfare Economics'
+  pageRef: /pages/unit-4-welfare-economics/
+  weight: 220
+- identifier: 67a95d63-65f3-7075-74af-48aaa0010a46
+  name: Competition III
+  pageRef: /pages/unit-4-welfare-economics/competition-iii
+  parent: 74a70dbf-2813-4c7f-25ca-e0a217b6ec6f
+  weight: 230
+- identifier: 8853fb2e-2f47-a6f1-6c5b-5b422b69abeb
+  name: Problem Set 5
+  pageRef: /pages/unit-4-welfare-economics/problem-set-5
+  parent: 74a70dbf-2813-4c7f-25ca-e0a217b6ec6f
+  weight: 240
+- identifier: 12e64d3f-0644-2707-bfcb-6442dc9daf1b
+  name: Principles of Welfare Economics
+  pageRef: /pages/unit-4-welfare-economics/principles-of-welfare-economics
+  parent: 74a70dbf-2813-4c7f-25ca-e0a217b6ec6f
+  weight: 250
+- identifier: 51ebf007-53b9-a85a-f746-a5c03a54785d
+  name: 'Unit 5: Monopoly and Oligopoly'
+  pageRef: /pages/unit-5-monopoly-and-oligopoly/
+  weight: 260
+- identifier: 617ef7a2-5dbc-5b46-dc2f-8d1834973f63
+  name: Monopoly I
+  pageRef: /pages/unit-5-monopoly-and-oligopoly/monopoly-i
+  parent: 51ebf007-53b9-a85a-f746-a5c03a54785d
+  weight: 270
+- identifier: 63a175ea-2f4e-7188-fe6e-df59d477548c
+  name: Problem Set 6
+  pageRef: /pages/unit-5-monopoly-and-oligopoly/problem-set-6
+  parent: 51ebf007-53b9-a85a-f746-a5c03a54785d
+  weight: 280
+- identifier: 50af805f-c0a0-d661-779c-f0c42425f15d
+  name: Monopoly II
+  pageRef: /pages/unit-5-monopoly-and-oligopoly/monopoly-ii
+  parent: 51ebf007-53b9-a85a-f746-a5c03a54785d
+  weight: 290
+- identifier: 2345b16d-4f54-dfc7-a811-91d1d1abbca2
+  name: Oligopoly I
+  pageRef: /pages/unit-5-monopoly-and-oligopoly/oligopoly-i
+  parent: 51ebf007-53b9-a85a-f746-a5c03a54785d
+  weight: 300
+- identifier: 6646396a-08af-4e2f-2e6c-5cd67f11bcf9
+  name: Problem Set 7
+  pageRef: /pages/unit-5-monopoly-and-oligopoly/problem-set-7
+  parent: 51ebf007-53b9-a85a-f746-a5c03a54785d
+  weight: 310
+- identifier: 2954fa84-88a1-a8cb-0a6a-bcfda77e25b9
+  name: Oligopoly II
+  pageRef: /pages/unit-5-monopoly-and-oligopoly/oligopoly-ii
+  parent: 51ebf007-53b9-a85a-f746-a5c03a54785d
+  weight: 320
+- identifier: 68f8f062-a1d7-c90a-66a7-04a60dcfb901
+  name: Midterm Exam 2
+  pageRef: /pages/midterm-exam-2
+  weight: 330
+- identifier: 2b057e13-f81e-86aa-d632-c23c1074b663
+  name: 'Unit 6: Topics in Intermediate Microeconomics'
+  pageRef: /pages/unit-6-topics-in-intermediate-microeconomics/
+  weight: 340
+- identifier: 9af14389-2f78-d160-e3b7-064bcdef0053
+  name: Factor Markets
+  pageRef: /pages/unit-6-topics-in-intermediate-microeconomics/factor-markets
+  parent: 2b057e13-f81e-86aa-d632-c23c1074b663
+  weight: 350
+- identifier: 7c6e1dca-9e9d-7e00-1941-647141088a9a
+  name: International Trade
+  pageRef: /pages/unit-6-topics-in-intermediate-microeconomics/international-trade
+  parent: 2b057e13-f81e-86aa-d632-c23c1074b663
+  weight: 360
+- identifier: eb20a386-5631-4e61-6324-268b98c9df1d
+  name: Uncertainty
+  pageRef: /pages/unit-6-topics-in-intermediate-microeconomics/uncertainty
+  parent: 2b057e13-f81e-86aa-d632-c23c1074b663
+  weight: 370
+- identifier: 47ca36a0-a20e-e665-9b17-161226427ca7
+  name: Problem Set 8
+  pageRef: /pages/unit-6-topics-in-intermediate-microeconomics/problem-set-8
+  parent: 2b057e13-f81e-86aa-d632-c23c1074b663
+  weight: 380
+- identifier: 1540ea69-3186-1f85-5d35-b82c66e44bec
+  name: Capital Supply and Markets I
+  pageRef: /pages/unit-6-topics-in-intermediate-microeconomics/capital-supply-and-markets-i
+  parent: 2b057e13-f81e-86aa-d632-c23c1074b663
+  weight: 390
+- identifier: 66c54ff6-d570-18af-9a41-352ad16e70f7
+  name: Capital Supply and Markets II
+  pageRef: /pages/unit-6-topics-in-intermediate-microeconomics/capital-supply-and-markets-ii
+  parent: 2b057e13-f81e-86aa-d632-c23c1074b663
+  weight: 400
+- identifier: c94fdf90-5457-1202-c278-c37041d32e5c
+  name: 'Unit 7: Equity and Efficiency'
+  pageRef: /pages/unit-7-equity-and-efficiency/
+  weight: 410
+- identifier: 1b95348a-7b79-a798-d635-6d4376464c0d
+  name: Equity and Efficiency
+  pageRef: /pages/unit-7-equity-and-efficiency/equity-and-efficiency
+  parent: c94fdf90-5457-1202-c278-c37041d32e5c
+  weight: 420
+- identifier: b3df4706-2059-ac3f-7af8-8832de93e0fb
+  name: Government Redistribution Policy
+  pageRef: /pages/unit-7-equity-and-efficiency/government-redistribution-policy
+  parent: c94fdf90-5457-1202-c278-c37041d32e5c
+  weight: 430
+- identifier: c2b37480-348d-c949-387b-11748d4a62b0
+  name: Problem Set 9
+  pageRef: /pages/unit-7-equity-and-efficiency/problem-set-9
+  parent: c94fdf90-5457-1202-c278-c37041d32e5c
+  weight: 440
+- identifier: 7846c5e3-1518-5524-02f1-19e7b530b4bd
+  name: U.S. Social Insurance Programs
+  pageRef: /pages/unit-7-equity-and-efficiency/u-s--social-insurance-programs
+  parent: c94fdf90-5457-1202-c278-c37041d32e5c
+  weight: 450
+- identifier: 41da8f54-7f2a-d774-baa0-e7c50d7cf9e6
+  name: Healthcare Economics
+  pageRef: /pages/unit-7-equity-and-efficiency/healthcare-economics
+  parent: c94fdf90-5457-1202-c278-c37041d32e5c
+  weight: 460
+- identifier: 0a131ce5-8530-cca6-ffa8-3134297349da
+  name: Final Exam
+  pageRef: /pages/final-exam
+  weight: 470
