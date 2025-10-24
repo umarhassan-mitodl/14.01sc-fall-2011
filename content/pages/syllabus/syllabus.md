@@ -11,7 +11,7 @@ uid: 8abb293b-49d8-047a-3f36-74bfa02e78f7
 video_metadata:
   youtube_id: null
 ---
-« {{% resource_link "48f33dbd-acac-4bff-a078-73925ff2bbdb" "Previous" %}} | {{% resource_link "f0b3ed7c-dca2-a26b-75e3-53d084b146b2" "Next" %}} »
+« [Previous](https://ocw-studio.odl.mit.edu/sites/14-01sc-principles-of-microeconomics-fall-2011/type/page/) | {{% resource_link "f0b3ed7c-dca2-a26b-75e3-53d084b146b2" "Next" %}} »
 
 ## About this Course
 
@@ -25,7 +25,7 @@ By the end of the course, you will be able to understand introductory microecono
 
 This course will include some basic uni-variate calculus material, as taught in the MIT course *18.01 Single Variable Calculus* or in a comparable high-school calculus course. There are no other prerequisites.
 
-Visit {{% resource_link "caf88b74-b903-4ad9-b9c2-da517d291439" "*18.01SC Single Variable Calculus*" %}} to learn or review this material.
+Visit [*18.01SC Single Variable Calculus*](/courses/18-01sc-single-variable-calculus-fall-2010) to learn or review this material.
 
 ## Course Goals
 
@@ -93,4 +93,4 @@ There will also be a three hour final, which will be cumulative and cover all of
 
 This course includes substantial contributions from several talented {{% resource_link "f0b3ed7c-dca2-a26b-75e3-53d084b146b2" "14.01SC Teaching Assistants" %}}.
 
-« {{% resource_link "48f33dbd-acac-4bff-a078-73925ff2bbdb" "Previous" %}} | {{% resource_link "f0b3ed7c-dca2-a26b-75e3-53d084b146b2" "Next" %}} »
+« [Previous](https://ocw-studio.odl.mit.edu/sites/14-01sc-principles-of-microeconomics-fall-2011/type/page/) | {{% resource_link "f0b3ed7c-dca2-a26b-75e3-53d084b146b2" "Next" %}} »
