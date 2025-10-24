@@ -24,7 +24,7 @@ The first unit of this course is designed to introduce you to the principles of 
 
   {{% resource_link b9026c77-1341-a253-b9d1-649dae571519 "Introduction to Microeconomics" %}}
 
-  _Image courtesy of_ {{% resource_link "b088b1f2-8663-46b4-9658-78e4c142a86e" "_ninanord_" %}} _on Flickr._
+  _Image courtesy of_ [_ninanord_](http://www.flickr.com/photos/ninsvims/3264175368/) _on Flickr._
 
 
 {{< tdclose >}}
@@ -40,7 +40,7 @@ The first unit of this course is designed to introduce you to the principles of 
 
   {{% resource_link bf5626a7-d48d-d3b2-58c6-78a13912ef84 "Applying Supply and Demand" %}}
 
-  _Image courtesy of_ {{% resource_link "2a910f08-10dd-4ac5-a361-c59027b8e8f6" "_Aaron Tyo-Dikerson_" %}} _on Flickr._
+  _Image courtesy of_ [_Aaron Tyo-Dikerson_](http://www.flickr.com/photos/tyodickerson/39826870/) _on Flickr._
 
 
 {{< tdclose >}}
@@ -56,7 +56,7 @@ The first unit of this course is designed to introduce you to the principles of 
 
   {{% resource_link e9dacfa6-ab6f-a244-a257-57f4d8b4b4f1 "Elasticity" %}}
 
-  _Image courtesy of_ {{% resource_link "45c55261-a5c7-43ae-9121-fd2ca106cd9e" "_Nic Stage_" %}} _on Flickr._
+  _Image courtesy of_ [_Nic Stage_](http://www.flickr.com/photos/nic-stage/4321461836/in/photostream/) _on Flickr._
 
 
 {{< tdclose >}}

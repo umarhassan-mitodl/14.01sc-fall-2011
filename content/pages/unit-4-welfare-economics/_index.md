@@ -24,7 +24,7 @@ While we typically analyze the operation of markets by examining the movements o
 
   {{% resource_link 67a95d63-65f3-7075-74af-48aaa0010a46 "Competition III" %}}
 
-  _Image courtesy of {{% resource_link "a004a9e4-ed8f-4c4c-9427-70cc31cdaf79" "Lance Ball" %}} on Flickr._
+  _Image courtesy of [Lance Ball](http://www.flickr.com/photos/skimcoat/2931005015/in/photostream/) on Flickr._
 
 
 {{< tdclose >}}
@@ -40,7 +40,7 @@ While we typically analyze the operation of markets by examining the movements o
 
   {{% resource_link 12e64d3f-0644-2707-bfcb-6442dc9daf1b "Principles of Welfare Economics" %}}
 
-  _Image courtesy of {{% resource_link "592bc67c-97e7-4cf0-ae0e-20e7006da6a5" "Vikseskogen" %}} on Flickr._
+  _Image courtesy of [Vikseskogen](http://www.flickr.com/photos/vilseskogen/5846470744/) on Flickr._
 
 
 {{< tdclose >}}

@@ -27,7 +27,7 @@ Session Overview
 
 When changes occur in a market—whether they are shifts in demand, shifts in supply, or government policies that interfere in the market's workings—they affect the welfare that market participants gain by virtue of being in the market. We can understand these changes by analyzing producer and consumer surplus, and this is the focus of this lecture.
 
-_Taxicab medallions are distributed and restricted by the government, and have an impact on social welfare. Image courtesy of {{% resource_link "592bc67c-97e7-4cf0-ae0e-20e7006da6a5" "Vilseskogen" %}} on Flickr._
+_Taxicab medallions are distributed and restricted by the government, and have an impact on social welfare. Image courtesy of [Vilseskogen](http://www.flickr.com/photos/vilseskogen/5846470744/) on Flickr._
 
 
 {{< tdclose >}}
@@ -85,8 +85,8 @@ These optional resources are provided for students that wish to explore this top
 
 ### Textbook Study Materials
 
-See the course website for {{% resource_link "7eb8551b-f9d1-4543-9ab2-35c825e84817" "Econ 302" %}}, Intermediate Economics taught at Penn State in 2011. 
+See the course website for [Econ 302](http://econ302.wikidot.com/applying-the-competitive-model), Intermediate Economics taught at Penn State in 2011. 
 
-*   {{% resource_link "7eb8551b-f9d1-4543-9ab2-35c825e84817" "Chapter 9" %}}
+*   [Chapter 9](http://econ302.wikidot.com/applying-the-competitive-model)
 
 « {{% resource_link 8853fb2e-2f47-a6f1-6c5b-5b422b69abeb "Previous" %}} | {{% resource_link 51ebf007-53b9-a85a-f746-a5c03a54785d "Next" %}} »

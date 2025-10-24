@@ -27,7 +27,7 @@ Session Overview
 
 Everything has a cost, and that is true for firms as well as consumers. When firms produce goods, they incur costs that vary depending on how much they are producing. In this lecture, we will analyze firms' cost functions.
 
-_Building factory infrastructure is a producer cost. Image courtesy of AndreasPraefcke on_ {{% resource_link "f98de2fa-a4b3-4edb-bee1-8770e5a3cacd" "_Wikipedia_" %}}.
+_Building factory infrastructure is a producer cost. Image courtesy of AndreasPraefcke on_ [_Wikipedia_](http://en.wikipedia.org/wiki/File:Wolfsburg_VW-Werk.jpg).
 
 
 {{< tdclose >}}

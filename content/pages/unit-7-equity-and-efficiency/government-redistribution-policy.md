@@ -27,7 +27,7 @@ Session Overview
 
 A key element of government policy that determines how much we can redistribute among households is the tax rate. The tax rate is used to raise revenues, which can then be used in government programs. What type of taxes we should use and how high tax rates should be are major questions that economics attempts to answer. This lecture provides an introduction to the economics of taxation.
 
-_The Capitol Building, where the United States Congress proposes economic policy such as tax rates. Image courtesy of {{% resource_link "9a72e4b1-510e-4973-82a9-8ba4094fad13" "Ed Marshall" %}} on Flickr._
+_The Capitol Building, where the United States Congress proposes economic policy such as tax rates. Image courtesy of [Ed Marshall](http://www.flickr.com/photos/edward_marshall/4205363720/) on Flickr._
 
 
 {{< tdclose >}}

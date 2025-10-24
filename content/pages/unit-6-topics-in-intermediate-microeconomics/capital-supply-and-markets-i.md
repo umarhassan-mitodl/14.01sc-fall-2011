@@ -27,7 +27,7 @@ Session Overview
 
 During most of our discussion of consumer decisions and the production decisions of firms, we have focused on only labor and the decisions that individuals make about whether or not to work. We know from our study of production functions that firms also use capital to produce output. Where does capital come from? Not surprisingly, it is the result of another consumer decision, the decision of whether or not to save. This lecture analyzes the decisions consumers and firms make in the capital market.
 
-_Inflation rates change the value of a dollar from year to year. This image is in the public domain. Source: {{% resource_link "e7ceeca3-5d65-4c7e-9153-5647763ab70d" "Wikipedia" %}}._
+_Inflation rates change the value of a dollar from year to year. This image is in the public domain. Source: [Wikipedia](http://en.wikipedia.org/wiki/File:US_Inflation.png)._
 
 
 {{< tdclose >}}

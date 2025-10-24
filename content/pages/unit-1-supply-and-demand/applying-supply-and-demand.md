@@ -27,7 +27,7 @@ Session Overview
 
 You may not realize it, but every time you purchase something, you are participating in a market for that good. Some people supply it, and some people—you!—demand it. In this lecture, we will examine how to analyze supply and demand curves and the impact changes in market conditions and government policy can have on market equilibrium.
 
-_Government intervention can impact gasoline prices. Image courtesy of_ {{% resource_link "2a910f08-10dd-4ac5-a361-c59027b8e8f6" "_Aaron Tyo-Dikerson_" %}} _on Flickr._
+_Government intervention can impact gasoline prices. Image courtesy of_ [_Aaron Tyo-Dikerson_](http://www.flickr.com/photos/tyodickerson/39826870/) _on Flickr._
 
 
 {{< tdclose >}}
@@ -79,6 +79,6 @@ These optional resources are provided for students that wish to explore this top
 
 ### Study Materials
 
-See the course website for {{% resource_link "00269c0e-f48e-470c-9f0a-e03a694d0fef" "Econ 302" %}}, Intermediate Microeconomics taught at Penn State in 2011. 
+See the course website for [Econ 302](http://econ302.wikidot.com/supply-and-demand), Intermediate Microeconomics taught at Penn State in 2011. 
 
 « {{% resource_link b9026c77-1341-a253-b9d1-649dae571519 "Previous" %}} | {{% resource_link e9dacfa6-ab6f-a244-a257-57f4d8b4b4f1 "Next" %}} »

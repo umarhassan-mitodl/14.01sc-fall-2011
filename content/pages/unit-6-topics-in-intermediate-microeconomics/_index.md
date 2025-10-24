@@ -24,7 +24,7 @@ In this unit of the course, we provide an introduction to a number of more advan
 
   {{% resource_link 9af14389-2f78-d160-e3b7-064bcdef0053 "Factor Markets" %}}
 
-  _Image courtesy of {{% resource_link "907bd27a-c644-486a-a494-97c55d3aa722" "Remko Tanis" %}} on Flickr._
+  _Image courtesy of [Remko Tanis](http://www.flickr.com/photos/remkotanis/4094323478/in/photostream/) on Flickr._
 
 
 {{< tdclose >}}
@@ -40,7 +40,7 @@ In this unit of the course, we provide an introduction to a number of more advan
 
   {{% resource_link 7c6e1dca-9e9d-7e00-1941-647141088a9a "International Trade" %}}
 
-  _Image courtesy of {{% resource_link "ba18856b-44e5-4524-8019-8362afaefabd" "ntknicole" %}} on Flickr._
+  _Image courtesy of [ntknicole](http://www.flickr.com/photos/ntknicole/2509289031/) on Flickr._
 
 
 {{< tdclose >}}
@@ -56,7 +56,7 @@ In this unit of the course, we provide an introduction to a number of more advan
 
   {{% resource_link eb20a386-5631-4e61-6324-268b98c9df1d "Uncertainty" %}}
 
-  _Image courtesy of {{% resource_link "4cd1a94e-893b-432c-92d3-ec7374b77fae" "Tom Morris" %}} on Flickr._
+  _Image courtesy of [Tom Morris](http://www.flickr.com/photos/tommorris/241508717/) on Flickr._
 
 
 {{< tdclose >}}
@@ -72,7 +72,7 @@ In this unit of the course, we provide an introduction to a number of more advan
 
   {{% resource_link 1540ea69-3186-1f85-5d35-b82c66e44bec "Capital Supply and Markets I" %}}
 
-  _This image is in the public domain. Source: {{% resource_link "e7ceeca3-5d65-4c7e-9153-5647763ab70d" "Wikipedia" %}}._
+  _This image is in the public domain. Source: [Wikipedia](http://en.wikipedia.org/wiki/File:US_Inflation.png)._
 
 
 {{< tdclose >}}
@@ -88,7 +88,7 @@ In this unit of the course, we provide an introduction to a number of more advan
 
   {{% resource_link 66c54ff6-d570-18af-9a41-352ad16e70f7 "Capital Supply and Markets II" %}}
 
-  _Image courtesy of {{% resource_link "9ec7b945-992d-4e36-83c7-18925670b253" "B3OK" %}} on Flickr._
+  _Image courtesy of [B3OK](http://www.flickr.com/photos/b3ok/2920350568/in/photostream/) on Flickr._
 
 
 {{< tdclose >}}

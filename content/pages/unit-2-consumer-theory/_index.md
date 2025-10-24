@@ -24,7 +24,7 @@ The second unit of the course introduces you to the analysis of consumer behavio
 
   {{% resource_link eba60351-486e-4457-3f84-ae3b47789fde "Preferences and Utility" %}}
 
-  _Image courtesy of {{% resource_link "fe3dd035-340b-4455-a897-5a1de1079564" "William Jones" %}} on Flickr._
+  _Image courtesy of [William Jones](http://www.flickr.com/photos/fritish/3357925979/) on Flickr._
 
 
 {{< tdclose >}}
@@ -40,7 +40,7 @@ The second unit of the course introduces you to the analysis of consumer behavio
 
   {{% resource_link 0c0a7957-a70d-ea1c-20bc-11996dd1090c "Budget Constraints" %}}
 
-  _Image courtesy of {{% resource_link "4731835a-97be-466b-b758-1b242ad9759d" "allison.johnston" %}} on Flickr_
+  _Image courtesy of [allison.johnston](http://www.flickr.com/photos/allisonjohnstonn/6332964795/in/photostream/) on Flickr_
 
 
 {{< tdclose >}}
@@ -56,7 +56,7 @@ The second unit of the course introduces you to the analysis of consumer behavio
 
   {{% resource_link e0983a2e-16f7-37a8-ad57-4f6bb67502e5 "Deriving Demand Curves" %}}
 
-  _Image courtesy of {{% resource_link "fd8ad804-4c52-442a-a3a4-44dce36eba58" "Brian" %}} on Flickr._
+  _Image courtesy of [Brian](http://www.flickr.com/photos/ncreedplayer/4459054998/) on Flickr._
 
 
 {{< tdclose >}}
@@ -72,7 +72,7 @@ The second unit of the course introduces you to the analysis of consumer behavio
 
   {{% resource_link 52d96c2f-56aa-990b-e3ea-69526d59464b "Applying Consumer Theory: Labor" %}}
 
-  _Image courtesy of {{% resource_link "ed29c058-9e31-4f7f-b39a-52926741ec08" "Joi Ito" %}} on Flickr._
+  _Image courtesy of [Joi Ito](http://www.flickr.com/photos/joi/9913697/) on Flickr._
 
 
 {{< tdclose >}}

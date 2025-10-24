@@ -27,7 +27,7 @@ Session Overview
 
 Up until now, our analysis of consumers and firms alike has assumed that both have perfect knowledge of the future. However, the world is filled with uncertainty. We don't know if it will rain tomorrow, if the stock market will go up next year, or if a new business will succeed or fail. This lecture analyzes the implications of uncertainty for consumer decisions.
 
-_The economics of uncertainty impacts our decision to play the lottery. Image courtesy of {{% resource_link "4cd1a94e-893b-432c-92d3-ec7374b77fae" "Tom Morris" %}} on Flickr._
+_The economics of uncertainty impacts our decision to play the lottery. Image courtesy of [Tom Morris](http://www.flickr.com/photos/tommorris/241508717/) on Flickr._
 
 
 {{< tdclose >}}
