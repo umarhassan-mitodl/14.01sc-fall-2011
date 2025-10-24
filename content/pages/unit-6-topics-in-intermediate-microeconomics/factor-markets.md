@@ -21,7 +21,7 @@ video_metadata:
 {{< resource be28d675-3c00-4d62-69ce-2cd84eb6c324 >}}
 {{< tdclose >}}{{< tdopen >}}
 Earlier in the semester, we discussed the labor supply decisions made by consumers when deciding how much they should or should not work. However, firms have the power to decide how many workers to hire. This lecture focuses on the operation of firms in the factor markets that supply the factors (labor and capital) they use in production.    
-       A firm made the decision to hire these workers. In this lecture, discover the determinants of this decision! Image courtesy of {{% resource_link "907bd27a-c644-486a-a494-97c55d3aa722" "Remko Tanis" %}} on Flickr.
+       A firm made the decision to hire these workers. In this lecture, discover the determinants of this decision! Image courtesy of [Remko Tanis](http://www.flickr.com/photos/remkotanis/4094323478/in/photostream/) on Flickr.
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 *Keywords*: Input markets; labor supply; monopsony; expenditure curves; wage discrimination; empirical economics.
