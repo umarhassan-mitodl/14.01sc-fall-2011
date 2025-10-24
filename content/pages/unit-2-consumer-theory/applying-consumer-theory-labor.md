@@ -22,7 +22,7 @@ video_metadata:
 
 Along with what to buy, another key decision that we make every day as economic agents is how much to work and how much to relax. The decision about supplying labor can be analyzed with the same tools used to analyze the market for pizza or movies, and we call this the analysis of the labor market. This lecture provides an overview of the economics of the labor market.
 
-*The decision to nap instead of work can be analyzed by economic tools. Image courtesy of* {{% resource_link "ed29c058-9e31-4f7f-b39a-52926741ec08" "*Joi Ito*" %}} *on Flickr.*
+*The decision to nap instead of work can be analyzed by economic tools. Image courtesy of* [*Joi Ito*](http://www.flickr.com/photos/joi/9913697/) *on Flickr.*
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 

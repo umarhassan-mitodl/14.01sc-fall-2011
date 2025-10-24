@@ -23,7 +23,7 @@ video_metadata:
 
 The analytical picture of monopolies presented in our last lecture may be too simple. Monopolies may not always charge the same price to every customer – they can choose to charge different prices, a phenomenon known as price discrimination. Monopolies are regulated by governments to limit their market power, yet in some cases governments may encourage the operation of monopolies. These cases are discussed in greater detail in this lecture.
 
-*The U.S. Department of Justice enforces antitrust laws. Image courtesy of* {{% resource_link "b5a94a56-846f-4384-9984-1ff8ec024cfd" "*John Taylor*" %}} *on Flickr.*
+*The U.S. Department of Justice enforces antitrust laws. Image courtesy of* [*John Taylor*](http://www.flickr.com/photos/jbtaylor/5566452462/in/photostream/) *on Flickr.*
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 

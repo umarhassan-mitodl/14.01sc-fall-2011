@@ -22,7 +22,7 @@ video_metadata:
 
 Life would be easy if it was just a question of deciding what we would like most. The answer would probably be more of everything! Of course, economic decisions are not that simple, and the reason is that we are constrained in what we can choose: constrained by the amount of income, the amount of time, or any one of a number of factors. In this lecture we will analyze how consumers make choices when they face a budget constraint.
 
-*Our monetary income constrains our consumption. Image courtesy of* {{% resource_link "4731835a-97be-466b-b758-1b242ad9759d" "*allison.johnston*" %}} *on Flickr.*
+*Our monetary income constrains our consumption. Image courtesy of* [*allison.johnston*](http://www.flickr.com/photos/allisonjohnstonn/6332964795/in/photostream/) *on Flickr.*
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 

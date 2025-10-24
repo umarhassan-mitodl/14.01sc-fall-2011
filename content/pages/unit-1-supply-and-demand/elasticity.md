@@ -22,7 +22,7 @@ video_metadata:
 
 Everyone knows the unpleasant feeling that results from the price of something you've been longing to buy increasing – or the excitement of seeing your favorite snack go on sale! When the price of a good changes, consumers' demand for that good changes. We can understand these changes by graphing supply and demand curves and analyzing their properties.
 
-*Toilet paper is an example of an elastic good. Image courtesy of* {{% resource_link "45c55261-a5c7-43ae-9121-fd2ca106cd9e" "*Nic Stage*" %}} *on Flickr.*
+*Toilet paper is an example of an elastic good. Image courtesy of* [*Nic Stage*](http://www.flickr.com/photos/nic-stage/4321461836/in/photostream/) *on Flickr.*
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
